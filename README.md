@@ -13,4 +13,4 @@ Indem man über sie drüber hovert erscheint der selbe Task, nur in einer detail
 Für Tasks die eine feste Uhrzeit haben wird es, wie im Mockup angedeutet, rechts eine Ansicht mit den Tasks geben, die der Reihe nach, nach dem frühsten Datum sortiert, aufgelistet sind.
 
 Für Mobile Versionen gelten selbige funktionale Eigenschaften.
-Es existieren zwei unterschiedliche Media-"Größen": für Tablets ab 1024px screen größe mit einer um o.g. Taskliste verringerte Ansicht. Für
+Es existieren zwei unterschiedliche Media-"Größen": für Tablets ab 1024px screen größe mit einer um o.g. Taskliste verringerte Ansicht.
